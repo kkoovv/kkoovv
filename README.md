@@ -1,6 +1,6 @@
 ### <p align="center">☁️ kkoovv ☁️</p>
 <p align= "center">
-  <img src="https://komarev.com/ghpvc/?username=krovniy">
+  <img src="https://komarev.com/ghpvc/?username=kkoovv">
 </p>
 
 -----
@@ -49,8 +49,8 @@
 
 ### <p align="center">📊 Stats 📊</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krovniy&count_private=true&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=kkoovv&count_private=true&show_icons=true&theme=dark">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krovniy&layout=compact&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkoovv&layout=compact&theme=dark">
 </p>
